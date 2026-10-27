@@ -1,0 +1,13 @@
+Atlas,Cell state,Disorder,Compared with,Difference,SE,Z,P
+Palmar fascia atlas (mesenchyme),POSTN+ lesional fibroblasts,Dupuytren's disease,Carpal tunnel syndrome,0.125983,0.05584862320594841,2.255794194521551,0.02408352309682433
+Palmar fascia atlas (mesenchyme),POSTN+ lesional fibroblasts,Dupuytren's disease,De Quervain tenosynovitis,0.165033,0.05202774380078382,3.172019156393126,0.001513830209171193
+Palmar fascia atlas (mesenchyme),POSTN+ lesional fibroblasts,Dupuytren's disease,Enthesopathy,0.128691,0.0522125583552463,2.4647518538434,0.01371081687497636
+Palmar fascia atlas (mesenchyme),POSTN+ lesional fibroblasts,Dupuytren's disease,Frozen shoulder,0.148253,0.05292884303477641,2.800986976091499,0.005094657510300624
+Palmar fascia atlas (mesenchyme),POSTN+ lesional fibroblasts,Dupuytren's disease,Plantar fascial disorder,0.09006099999999999,0.05191924507347925,1.734636161842111,0.0828052701121901
+Palmar fascia atlas (mesenchyme),POSTN+ lesional fibroblasts,Dupuytren's disease,Trigger finger,0.125914,0.05254314171231103,2.396392676506018,0.01655734154615426
+Palmar fascia atlas (mesenchyme),COMP+ THBS4+ fibroblasts,Carpal tunnel syndrome,De Quervain tenosynovitis,0.14658,0.05215194352083152,2.810633508633293,0.004944407063998682
+Palmar fascia atlas (mesenchyme),COMP+ THBS4+ fibroblasts,Carpal tunnel syndrome,Dupuytren's disease,0.01959999999999998,0.05459041534921675,0.3590373854937375,0.7195671217439755
+Palmar fascia atlas (mesenchyme),COMP+ THBS4+ fibroblasts,Carpal tunnel syndrome,Enthesopathy,0.130939,0.05243285630213178,2.497270017972993,0.01251536175431553
+Palmar fascia atlas (mesenchyme),COMP+ THBS4+ fibroblasts,Carpal tunnel syndrome,Frozen shoulder,0.152674,0.05315014513620823,2.87250391525256,0.004072330328634789
+Palmar fascia atlas (mesenchyme),COMP+ THBS4+ fibroblasts,Carpal tunnel syndrome,Plantar fascial disorder,0.168674,0.05209391833985998,3.23788275820554,0.001204202853950445
+Palmar fascia atlas (mesenchyme),COMP+ THBS4+ fibroblasts,Carpal tunnel syndrome,Trigger finger,0.09351899999999999,0.05272370522829366,1.773756218290477,0.07610348291061211

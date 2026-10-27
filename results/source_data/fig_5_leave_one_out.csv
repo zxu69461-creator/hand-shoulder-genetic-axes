@@ -1,0 +1,10 @@
+Outcome,Trials,Smallest leave-one-out Peto OR,Largest leave-one-out Peto OR
+Carpal tunnel syndrome,17,0.8926108508984212,1.212145523476678
+Dupuytren's disease,7,2.528880360534315,4.778967691750162
+Frozen shoulder,6,3.093956688678831,5.197440911708582
+Basal cell carcinoma (negative control),14,0.9010769258344933,1.113458780533842
+Benign prostatic hyperplasia (negative control),18,1.005177933890388,1.120747070802419
+Cataract (negative control),29,0.7809097445053726,0.9017154693895774
+Gallbladder disease (positive control),70,1.204486254013412,1.352756324907785
+Rotator cuff disorder,20,0.8141400968374447,0.9907912819796184
+Trigger finger,5,0.893094041918513,1.761590401120666

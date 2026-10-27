@@ -1,0 +1,2 @@
+Drug class,Trials,Ratio of odds ratios,95% CI lower,95% CI upper,Share of resamples with log ratio at or below 0,Resamples drawn,Resamples with an estimable ratio
+Incretin receptor agonists,210,3.800301525421558,1.773222681946073,6.340796968501865,0.001000250062515629,4000,3999

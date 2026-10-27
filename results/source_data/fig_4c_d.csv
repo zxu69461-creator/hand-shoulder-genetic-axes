@@ -1,0 +1,109 @@
+Atlas,Cell state,Disorder,Genes in set,Beta,SE,P,FDR
+Achilles tendon atlas (fibroblasts and chondrocytes),COMP+ MMP3+ tenocytes,Carpal tunnel syndrome,791,0.096954,0.037476,0.004845,0.02170536666666667
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi VCANhi fibroblasts,Carpal tunnel syndrome,816,0.031883,0.036841,0.19341,0.270774
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi COL15A1hi fibroblasts,Carpal tunnel syndrome,775,-0.02884,0.039096,0.76964,0.76964
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi ITGA6hi fibroblasts,Carpal tunnel syndrome,807,-0.00015967,0.038207,0.50167,0.5852816666666666
+Achilles tendon atlas (fibroblasts and chondrocytes),COMP+ THBS4+ tenocytes,Carpal tunnel syndrome,791,0.090871,0.038609,0.0093023,0.02170536666666667
+Achilles tendon atlas (fibroblasts and chondrocytes),Enthesis fibrocartilage cells,Carpal tunnel syndrome,812,0.092386,0.037451,0.0068219,0.02170536666666667
+Achilles tendon atlas (fibroblasts and chondrocytes),PRG4hi fibroblasts,Carpal tunnel syndrome,763,0.040883,0.038826,0.14618,0.255815
+Achilles tendon atlas (fibroblasts and chondrocytes),COMP+ MMP3+ tenocytes,De Quervain tenosynovitis,786,0.028717,0.032657,0.18961,0.663635
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi VCANhi fibroblasts,De Quervain tenosynovitis,809,0.073538,0.03192,0.010625,0.07437500000000001
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi COL15A1hi fibroblasts,De Quervain tenosynovitis,766,0.01014,0.034029,0.38286,0.8933399999999999
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi ITGA6hi fibroblasts,De Quervain tenosynovitis,803,-0.056976,0.033262,0.95663,0.95663
+Achilles tendon atlas (fibroblasts and chondrocytes),COMP+ THBS4+ tenocytes,De Quervain tenosynovitis,785,-0.028564,0.033279,0.80464,0.9387466666666667
+Achilles tendon atlas (fibroblasts and chondrocytes),Enthesis fibrocartilage cells,De Quervain tenosynovitis,804,-0.015829,0.032349,0.68768,0.9387466666666667
+Achilles tendon atlas (fibroblasts and chondrocytes),PRG4hi fibroblasts,De Quervain tenosynovitis,756,-0.024735,0.033417,0.7704,0.9387466666666667
+Achilles tendon atlas (fibroblasts and chondrocytes),COMP+ MMP3+ tenocytes,Dupuytren's disease,789,0.081119,0.03588,0.011893,0.02775033333333334
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi VCANhi fibroblasts,Dupuytren's disease,814,0.038857,0.035237,0.13508,0.189112
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi COL15A1hi fibroblasts,Dupuytren's disease,775,-0.011763,0.037324,0.62368,0.62368
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi ITGA6hi fibroblasts,Dupuytren's disease,807,0.070535,0.036515,0.026711,0.04674425
+Achilles tendon atlas (fibroblasts and chondrocytes),COMP+ THBS4+ tenocytes,Dupuytren's disease,789,0.12061,0.036917,0.00054498,0.00381486
+Achilles tendon atlas (fibroblasts and chondrocytes),Enthesis fibrocartilage cells,Dupuytren's disease,811,0.091349,0.035831,0.0054001,0.01890035
+Achilles tendon atlas (fibroblasts and chondrocytes),PRG4hi fibroblasts,Dupuytren's disease,761,0.0017582,0.037099,0.4811,0.5612833333333334
+Achilles tendon atlas (fibroblasts and chondrocytes),COMP+ MMP3+ tenocytes,Enthesopathy,789,0.0078334,0.032742,0.40546,0.74249
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi VCANhi fibroblasts,Enthesopathy,813,-0.05128,0.032109,0.94486,0.99599
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi COL15A1hi fibroblasts,Enthesopathy,774,-0.090473,0.034123,0.99599,0.99599
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi ITGA6hi fibroblasts,Enthesopathy,807,0.059882,0.033314,0.03614,0.25298
+Achilles tendon atlas (fibroblasts and chondrocytes),COMP+ THBS4+ tenocytes,Enthesopathy,789,0.0015597,0.033753,0.48157,0.74249
+Achilles tendon atlas (fibroblasts and chondrocytes),Enthesis fibrocartilage cells,Enthesopathy,811,-0.002489,0.032683,0.53035,0.74249
+Achilles tendon atlas (fibroblasts and chondrocytes),PRG4hi fibroblasts,Enthesopathy,760,0.019234,0.033867,0.28504,0.74249
+Achilles tendon atlas (fibroblasts and chondrocytes),COMP+ MMP3+ tenocytes,Frozen shoulder,791,0.052708,0.033821,0.059578,0.2268665
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi VCANhi fibroblasts,Frozen shoulder,814,-0.044425,0.033237,0.90931,0.90931
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi COL15A1hi fibroblasts,Frozen shoulder,775,-0.039639,0.035053,0.87093,0.90931
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi ITGA6hi fibroblasts,Frozen shoulder,808,0.044438,0.034379,0.098087,0.2288696666666666
+Achilles tendon atlas (fibroblasts and chondrocytes),COMP+ THBS4+ tenocytes,Frozen shoulder,790,0.0012759,0.034507,0.48525,0.67935
+Achilles tendon atlas (fibroblasts and chondrocytes),Enthesis fibrocartilage cells,Frozen shoulder,811,0.051229,0.0338,0.064819,0.2268665
+Achilles tendon atlas (fibroblasts and chondrocytes),PRG4hi fibroblasts,Frozen shoulder,760,0.011967,0.034777,0.36539,0.6394325
+Achilles tendon atlas (fibroblasts and chondrocytes),COMP+ MMP3+ tenocytes,Plantar fascial disorder,786,-0.011312,0.032571,0.63581,0.890134
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi VCANhi fibroblasts,Plantar fascial disorder,809,0.022433,0.031842,0.24056,0.84196
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi COL15A1hi fibroblasts,Plantar fascial disorder,766,-0.058834,0.033935,0.9585,0.9585
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi ITGA6hi fibroblasts,Plantar fascial disorder,803,-0.0084973,0.033175,0.60108,0.890134
+Achilles tendon atlas (fibroblasts and chondrocytes),COMP+ THBS4+ tenocytes,Plantar fascial disorder,785,-0.037451,0.033187,0.87043,0.9585
+Achilles tendon atlas (fibroblasts and chondrocytes),Enthesis fibrocartilage cells,Plantar fascial disorder,804,0.046429,0.032191,0.074621,0.522347
+Achilles tendon atlas (fibroblasts and chondrocytes),PRG4hi fibroblasts,Plantar fascial disorder,756,-0.0097179,0.033328,0.61469,0.890134
+Achilles tendon atlas (fibroblasts and chondrocytes),COMP+ MMP3+ tenocytes,Trigger finger,789,0.12257,0.033088,0.0001064,0.0003724
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi VCANhi fibroblasts,Trigger finger,814,0.017939,0.032501,0.29049,0.46718
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi COL15A1hi fibroblasts,Trigger finger,775,0.047772,0.034488,0.083009,0.1936876666666667
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi ITGA6hi fibroblasts,Trigger finger,807,0.0084945,0.03368,0.40044,0.46718
+Achilles tendon atlas (fibroblasts and chondrocytes),COMP+ THBS4+ tenocytes,Trigger finger,789,0.013867,0.034114,0.34219,0.46718
+Achilles tendon atlas (fibroblasts and chondrocytes),Enthesis fibrocartilage cells,Trigger finger,811,0.12994,0.03303,4.1959e-05,0.000293713
+Achilles tendon atlas (fibroblasts and chondrocytes),PRG4hi fibroblasts,Trigger finger,760,-0.028654,0.034242,0.79864,0.79864
+Palmar fascia atlas (mesenchyme),APOD+ fascia fibroblasts,Carpal tunnel syndrome,601,0.061062,0.041615,0.071159,0.1013925
+Palmar fascia atlas (mesenchyme),COMP+ THBS4+ fibroblasts,Carpal tunnel syndrome,720,0.18044,0.039522,2.5139e-06,1.25695e-05
+Palmar fascia atlas (mesenchyme),Mural cells,Carpal tunnel syndrome,689,0.057359,0.041038,0.081114,0.1013925
+Palmar fascia atlas (mesenchyme),PI16+ universal fibroblasts,Carpal tunnel syndrome,766,0.036678,0.038033,0.16744,0.16744
+Palmar fascia atlas (mesenchyme),POSTN+ lesional fibroblasts,Carpal tunnel syndrome,676,0.061727,0.040367,0.063123,0.1013925
+Palmar fascia atlas (mesenchyme),APOD+ fascia fibroblasts,De Quervain tenosynovitis,595,0.043157,0.036119,0.11608,0.3223375
+Palmar fascia atlas (mesenchyme),COMP+ THBS4+ fibroblasts,De Quervain tenosynovitis,717,0.03386,0.034027,0.15986,0.3223375
+Palmar fascia atlas (mesenchyme),Mural cells,De Quervain tenosynovitis,685,-0.034753,0.035436,0.83663,0.8366299999999999
+Palmar fascia atlas (mesenchyme),PI16+ universal fibroblasts,De Quervain tenosynovitis,758,0.026154,0.032978,0.21387,0.3223375
+Palmar fascia atlas (mesenchyme),POSTN+ lesional fibroblasts,De Quervain tenosynovitis,671,0.022677,0.03489,0.25787,0.3223375
+Palmar fascia atlas (mesenchyme),APOD+ fascia fibroblasts,Dupuytren's disease,600,0.042381,0.039859,0.14384,0.1798
+Palmar fascia atlas (mesenchyme),COMP+ THBS4+ fibroblasts,Dupuytren's disease,718,0.16084,0.037658,9.7967e-06,2.449175e-05
+Palmar fascia atlas (mesenchyme),Mural cells,Dupuytren's disease,689,0.059997,0.039265,0.063268,0.1054466666666667
+Palmar fascia atlas (mesenchyme),PI16+ universal fibroblasts,Dupuytren's disease,763,-0.01999,0.036431,0.70839,0.70839
+Palmar fascia atlas (mesenchyme),POSTN+ lesional fibroblasts,Dupuytren's disease,675,0.18771,0.038595,5.832e-07,2.916e-06
+Palmar fascia atlas (mesenchyme),APOD+ fascia fibroblasts,Enthesopathy,600,-0.033076,0.036374,0.81841,0.8184099999999999
+Palmar fascia atlas (mesenchyme),COMP+ THBS4+ fibroblasts,Enthesopathy,718,0.049501,0.034456,0.075419,0.1885475
+Palmar fascia atlas (mesenchyme),Mural cells,Enthesopathy,689,-0.0255,0.03581,0.76179,0.8184099999999999
+Palmar fascia atlas (mesenchyme),PI16+ universal fibroblasts,Enthesopathy,763,0.026833,0.033251,0.20984,0.3497333333333333
+Palmar fascia atlas (mesenchyme),POSTN+ lesional fibroblasts,Enthesopathy,675,0.059019,0.035165,0.046651,0.1885475
+Palmar fascia atlas (mesenchyme),APOD+ fascia fibroblasts,Frozen shoulder,600,0.038274,0.037237,0.15202,0.21732
+Palmar fascia atlas (mesenchyme),COMP+ THBS4+ fibroblasts,Frozen shoulder,718,0.027766,0.035538,0.21732,0.21732
+Palmar fascia atlas (mesenchyme),Mural cells,Frozen shoulder,689,0.030961,0.036737,0.19969,0.21732
+Palmar fascia atlas (mesenchyme),PI16+ universal fibroblasts,Frozen shoulder,763,0.036489,0.033867,0.14065,0.21732
+Palmar fascia atlas (mesenchyme),POSTN+ lesional fibroblasts,Frozen shoulder,676,0.039457,0.03622,0.13801,0.21732
+Palmar fascia atlas (mesenchyme),APOD+ fascia fibroblasts,Plantar fascial disorder,595,0.026646,0.036025,0.22976,0.4555125
+Palmar fascia atlas (mesenchyme),COMP+ THBS4+ fibroblasts,Plantar fascial disorder,717,0.011766,0.033938,0.36441,0.4555125
+Palmar fascia atlas (mesenchyme),Mural cells,Plantar fascial disorder,685,0.013591,0.03534,0.35028,0.4555125
+Palmar fascia atlas (mesenchyme),PI16+ universal fibroblasts,Plantar fascial disorder,758,-0.047669,0.032888,0.92638,0.92638
+Palmar fascia atlas (mesenchyme),POSTN+ lesional fibroblasts,Plantar fascial disorder,671,0.097649,0.034728,0.0024669,0.0123345
+Palmar fascia atlas (mesenchyme),APOD+ fascia fibroblasts,Trigger finger,600,0.02542,0.036703,0.24429,0.35295
+Palmar fascia atlas (mesenchyme),COMP+ THBS4+ fibroblasts,Trigger finger,718,0.086921,0.034897,0.0063791,0.0318955
+Palmar fascia atlas (mesenchyme),Mural cells,Trigger finger,689,0.018864,0.036151,0.30091,0.35295
+Palmar fascia atlas (mesenchyme),PI16+ universal fibroblasts,Trigger finger,763,0.012675,0.033588,0.35295,0.35295
+Palmar fascia atlas (mesenchyme),POSTN+ lesional fibroblasts,Trigger finger,675,0.061796,0.035654,0.041539,0.1038475
+Achilles tendon atlas (fibroblasts and chondrocytes),COMP+ MMP3+ tenocytes,Fibro-capsular axis,786,0.082635,0.032538,0.0055535,0.0388745
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi VCANhi fibroblasts,Fibro-capsular axis,809,0.0010478,0.031814,0.48686,0.6035050000000001
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi COL15A1hi fibroblasts,Fibro-capsular axis,766,-0.0014711,0.033939,0.51729,0.6035050000000001
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi ITGA6hi fibroblasts,Fibro-capsular axis,803,0.038107,0.033094,0.12478,0.218365
+Achilles tendon atlas (fibroblasts and chondrocytes),COMP+ THBS4+ tenocytes,Fibro-capsular axis,785,0.06523,0.033118,0.02445,0.062223
+Achilles tendon atlas (fibroblasts and chondrocytes),Enthesis fibrocartilage cells,Fibro-capsular axis,804,0.062326,0.032253,0.026667,0.062223
+Achilles tendon atlas (fibroblasts and chondrocytes),PRG4hi fibroblasts,Fibro-capsular axis,756,-0.017221,0.033255,0.69771,0.69771
+Palmar fascia atlas (mesenchyme),APOD+ fascia fibroblasts,Fibro-capsular axis,595,0.018737,0.035966,0.30119,0.3764875
+Palmar fascia atlas (mesenchyme),COMP+ THBS4+ fibroblasts,Fibro-capsular axis,717,0.064172,0.033914,0.029244,0.04874
+Palmar fascia atlas (mesenchyme),Mural cells,Fibro-capsular axis,685,0.06891,0.035127,0.024906,0.04874
+Palmar fascia atlas (mesenchyme),PI16+ universal fibroblasts,Fibro-capsular axis,758,-0.0028869,0.032853,0.53501,0.53501
+Palmar fascia atlas (mesenchyme),POSTN+ lesional fibroblasts,Fibro-capsular axis,671,0.10169,0.034771,0.0017274,0.008637
+Achilles tendon atlas (fibroblasts and chondrocytes),COMP+ MMP3+ tenocytes,Tenosynovial axis,786,0.13983,0.037259,8.7719e-05,0.000614033
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi VCANhi fibroblasts,Tenosynovial axis,809,0.035736,0.036439,0.16338,0.285915
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi COL15A1hi fibroblasts,Tenosynovial axis,766,-0.0055735,0.038875,0.557,0.557
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi ITGA6hi fibroblasts,Tenosynovial axis,803,0.01743,0.037908,0.32284,0.3766466666666666
+Achilles tendon atlas (fibroblasts and chondrocytes),COMP+ THBS4+ tenocytes,Tenosynovial axis,785,0.091218,0.037935,0.0081021,0.0189049
+Achilles tendon atlas (fibroblasts and chondrocytes),Enthesis fibrocartilage cells,Tenosynovial axis,804,0.12162,0.037014,0.00050995,0.001784825
+Achilles tendon atlas (fibroblasts and chondrocytes),PRG4hi fibroblasts,Tenosynovial axis,756,0.023018,0.038091,0.27283,0.3766466666666666
+Palmar fascia atlas (mesenchyme),APOD+ fascia fibroblasts,Tenosynovial axis,595,0.074979,0.041191,0.034371,0.08592749999999999
+Palmar fascia atlas (mesenchyme),COMP+ THBS4+ fibroblasts,Tenosynovial axis,717,0.16262,0.038826,1.4133e-05,7.0665e-05
+Palmar fascia atlas (mesenchyme),Mural cells,Tenosynovial axis,685,0.052827,0.040238,0.094628,0.094628
+Palmar fascia atlas (mesenchyme),PI16+ universal fibroblasts,Tenosynovial axis,758,0.053178,0.037627,0.078799,0.094628
+Palmar fascia atlas (mesenchyme),POSTN+ lesional fibroblasts,Tenosynovial axis,671,0.05362,0.039906,0.089539,0.094628

@@ -1,0 +1,39 @@
+Sheet,Contents
+Fig 1C,Cases and controls per disorder in FinnGen release 13 and in the UK Biobank-based GWAS.
+Fig 1D UMAP,"Palmar fascia single-cell atlas: UMAP coordinates, cell state and tissue of each cell."
+Fig 1D atlases,Cells and donors or samples of the three single-cell atlases.
+Fig 1E,Placebo-controlled incretin receptor agonist trials by molecule and pharmacological class.
+Fig 2A,Disease-level genetic correlations from the cross-cohort genomic structural equation model.
+Fig 2B,"Loadings of each disorder on the two factors (exploratory factor analysis, promax rotation)."
+Fig 2B path diagram,Loadings drawn in the path diagram (absolute value at least 0.3).
+Fig 2B factor analysis,"Loadings, uniquenesses, communalities and factor correlation, with residual variances bounded at 0.005 (primary) and 0.05."
+Fig 2C-D,Genetic correlations between FinnGen and UK Biobank-based GWAS.
+Fig 2E summary,Summary of the two axis factor GWAS.
+Fig 2E loci,Genome-wide significant loci of the two axis factor GWAS.
+Fig 2E lead variants,Lead variants of the two axis factor GWAS.
+Fig 3A-B,"Two-sample Mendelian randomisation of five exposures on eight disorders, with weighted-median and MR-Egger estimates."
+Fig 3C,"Ratio of the BMI odds ratios for carpal tunnel syndrome and Dupuytren's disease, estimated in different cohorts."
+Fig 3D,Mendelian randomisation of the five exposures on the two axis factor GWAS.
+Fig 3D difference,Difference between the effects of each exposure on the two axes.
+Fig 3E,Sex-stratified Mendelian randomisation and hormone instruments measured in men.
+Fig 3F,Multivariable Mendelian randomisation conditional on BMI.
+Fig 4A,Gene-level association (MAGMA) of the genes shown.
+Fig 4A gene counts,Genes passing gene-wide Bonferroni correction per disorder or axis.
+Fig 4B association,Association of variants in the FTO region with carpal tunnel syndrome and BMI.
+Fig 4B LD,Linkage disequilibrium with rs1558902 in 1000 Genomes Europeans.
+Fig 4B colocalisation,Colocalisation of carpal tunnel syndrome and BMI at FTO.
+Fig 4B recombination,Recombination rate in the FTO window.
+Fig 4B gene models,Exons of the canonical transcripts of protein-coding genes in the window.
+Fig 4C-D,Enrichment of heritability in cell-state gene sets (MAGMA competitive gene-set analysis).
+Fig 4C difference,Difference in enrichment between the two axis factor GWAS per state.
+Fig 4D comparisons,Enrichment of POSTN+ lesional fibroblast genes compared between disorders.
+Fig 5A-D,"Serious adverse events in placebo-controlled trials of incretin receptor agonists: counts, Peto and Mantel-Haenszel odds ratios and risk differences."
+Fig 5C axes,Axis-level odds ratios pooled with trial and disorder as strata.
+Fig 5C bootstrap,Ratio of the axis odds ratios with its trial-level bootstrap interval.
+Fig 5 leave-one-out,Range of Peto odds ratios when each trial is omitted in turn.
+Fig 5 included trials,"The 210 placebo-controlled trials of incretin receptor agonists pooled in Fig. 5: ClinicalTrials.gov identifier, first named incretin, participants at risk and participants with each serious adverse event in the drug and placebo groups."
+Heritability,"SNP heritability of the FinnGen disorders (LD score regression, observed scale)."
+Factor model fit,Fit of the confirmatory factor models reported in the Results.
+Axis genetic correlations,Genetic correlations of the two axis factor GWAS with each other and with other traits.
+Instrument strength,Number and F statistics of the genetic instruments per exposure.
+Axis gene-level results,Gene-level association (MAGMA) of every gene with the two axis factor GWAS.

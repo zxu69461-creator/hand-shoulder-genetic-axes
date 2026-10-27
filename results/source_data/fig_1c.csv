@@ -1,0 +1,9 @@
+Disorder,FinnGen endpoint,FinnGen cases,FinnGen controls,FinnGen cases (% of cases and controls),UK Biobank cases,UK Biobank controls,UK Biobank cases (% of cases and controls)
+Carpal tunnel syndrome,G6_CARPTU,32951,431627,7.09,12312.0,389344.0,3.07
+Trigger finger,M13_TRIGGERFINGER,6528,350578,1.83,2908.0,436579.0,0.66
+De Quervain tenosynovitis,M13_DEQUERVAIN,2381,350578,0.67,,,
+Dupuytren's disease,M13_DUPUTRYEN,6972,350578,1.95,3728.0,452620.0,0.82
+Frozen shoulder,M13_ADHCAPSULITIS,7586,350578,2.12,10104.0,440995.0,2.24
+Plantar fascial disorder,M13_PLANTARFASC,4210,350578,1.19,,,
+Enthesopathy,M13_ENTESOPATHYOTH,15115,350578,4.13,6439.0,449909.0,1.41
+Rotator cuff disorder,M13_ROTATORCUFF,34158,350578,8.88,,,

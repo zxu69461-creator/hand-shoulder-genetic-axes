@@ -1,0 +1,17 @@
+# Python packages (versions used for the analyses). R packages: r_packages.txt.
+name: hand-shoulder-axes
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.14
+  - plink=1.90
+  - pip
+  - pip:
+      - duckdb==1.5.6
+      - pandas==3.0.6
+      - numpy==2.4.3
+      - scipy==1.17.1
+      - openpyxl
+# The tendon atlases (60_sc_specificity.py on .h5ad files) were processed with Python 3.11, anndata 0.12.19,
+# scanpy 1.11.5, pandas 2.3.3, numpy 2.4.6 and scipy 1.17.1. MAGMA 1.10 is distributed by its authors.

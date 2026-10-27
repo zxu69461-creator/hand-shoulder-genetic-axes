@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this code or the source data, please cite the article below."
+title: "Genetic axes of hand and shoulder soft-tissue disease: analysis code and source data"
+type: software
+license: MIT
+repository-code: "https://github.com/zxu69461-creator/hand-shoulder-genetic-axes"
+authors:
+  - family-names: Xu
+    given-names: Zhida
+  - family-names: Cheng
+    given-names: Junhua
+  - family-names: Chen
+    given-names: Xiaping
+  - family-names: Luo
+    given-names: Jie
+  - family-names: Zhu
+    given-names: Xiaohu
+  - family-names: Guo
+    given-names: Xingrong
+preferred-citation:
+  type: article
+  title: "Genetic axes of hand and shoulder soft-tissue disease and their divergent responses to adiposity and incretin therapy: a cross-biobank genomic and randomised trial study"
+  journal: medRxiv
+  year: 2026
+  authors:
+    - family-names: Xu
+      given-names: Zhida
+    - family-names: Cheng
+      given-names: Junhua
+    - family-names: Chen
+      given-names: Xiaping
+    - family-names: Luo
+      given-names: Jie
+    - family-names: Zhu
+      given-names: Xiaohu
+    - family-names: Guo
+      given-names: Xingrong

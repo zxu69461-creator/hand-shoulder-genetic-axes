@@ -1,0 +1,9 @@
+data/
+work/
+db/
+*.duckdb
+*.duckdb.wal
+__pycache__/
+*.pyc
+.DS_Store
+.Rhistory

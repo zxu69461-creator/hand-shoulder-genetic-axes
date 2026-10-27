@@ -1,0 +1,89 @@
+Exposure,Outcome,Cohort,Method,Variants,Estimate (log OR per SD),SE,P
+Bioavailable testosterone (men),Carpal tunnel syndrome,FinnGen,IVW,84,0.0593036766924979,0.0494959166523189,0.230857492915697
+Bioavailable testosterone (men),Carpal tunnel syndrome,FinnGen,MR-Egger,84,0.0024348289612923,0.0902543540358779,0.9784777494883
+Bioavailable testosterone (men),Carpal tunnel syndrome,FinnGen,MR-Egger intercept,84,0.0024001539943828,0.0031817186645376,0.450634460164955
+Bioavailable testosterone (men),Carpal tunnel syndrome,FinnGen,weighted median,84,0.0036381275031359,0.0560111445518627,0.948210915252855
+Bioavailable testosterone (men),De Quervain tenosynovitis,FinnGen,IVW,84,0.152743953789472,0.128594827646163,0.23491522519553
+Bioavailable testosterone (men),De Quervain tenosynovitis,FinnGen,MR-Egger,84,0.27120325412982,0.237082254567644,0.25265660333611
+Bioavailable testosterone (men),De Quervain tenosynovitis,FinnGen,MR-Egger intercept,84,-0.0049474430347165,0.0083050070891438,0.55136356521331
+Bioavailable testosterone (men),De Quervain tenosynovitis,FinnGen,weighted median,84,0.0942613299268632,0.18833121997149,0.616717246293939
+Bioavailable testosterone (men),Dupuytren's disease,FinnGen,IVW,84,-0.0825711123491716,0.0704915160679891,0.241453133912679
+Bioavailable testosterone (men),Dupuytren's disease,FinnGen,MR-Egger,84,0.0182395922081562,0.124900689234572,0.883895527951209
+Bioavailable testosterone (men),Dupuytren's disease,FinnGen,MR-Egger intercept,84,-0.0043920024956089,0.0044915060892051,0.328150360413983
+Bioavailable testosterone (men),Dupuytren's disease,FinnGen,weighted median,84,-0.199219671683268,0.106678699555909,0.0618354584736866
+Bioavailable testosterone (men),Frozen shoulder,FinnGen,IVW,84,0.0027042656027025,0.0625754938318421,0.96552931185138
+Bioavailable testosterone (men),Frozen shoulder,FinnGen,MR-Egger,84,-0.0136648900200023,0.113912368168158,0.904515096383184
+Bioavailable testosterone (men),Frozen shoulder,FinnGen,MR-Egger intercept,84,0.0006947536753854,0.0040296173960486,0.8631137790942
+Bioavailable testosterone (men),Frozen shoulder,FinnGen,weighted median,84,-0.0305782030700913,0.112010203244661,0.784857212555004
+Bioavailable testosterone (men),Plantar fascial disorder,FinnGen,IVW,84,-0.114156983143454,0.0890527418285119,0.199876650889875
+Bioavailable testosterone (men),Plantar fascial disorder,FinnGen,MR-Egger,84,-0.286173468466878,0.161975366408889,0.0772664958565854
+Bioavailable testosterone (men),Plantar fascial disorder,FinnGen,MR-Egger intercept,84,0.0072279625317759,0.005694097087787,0.204306218824669
+Bioavailable testosterone (men),Plantar fascial disorder,FinnGen,weighted median,84,-0.0169284968426898,0.151463872930095,0.911009021914766
+Bioavailable testosterone (men),Trigger finger,FinnGen,IVW,84,0.0668097676201335,0.0865751624844773,0.440294082757451
+Bioavailable testosterone (men),Trigger finger,FinnGen,MR-Egger,84,-0.0749582123866913,0.157242030398923,0.63357152126195
+Bioavailable testosterone (men),Trigger finger,FinnGen,MR-Egger intercept,84,0.0059873567068818,0.0055460646861698,0.280334377111371
+Bioavailable testosterone (men),Trigger finger,FinnGen,weighted median,84,0.0107266461642309,0.114621985312125,0.925440574384973
+Body mass index,Carpal tunnel syndrome,"UK Biobank, women",IVW,75,0.504609901518507,0.105654232398307,1.78771919194924e-06
+Body mass index,Carpal tunnel syndrome,"UK Biobank, women",MR-Egger,75,1.03060614504122,0.247833596303611,3.20400050051184e-05
+Body mass index,Carpal tunnel syndrome,"UK Biobank, women",MR-Egger intercept,75,-0.0161516087467468,0.0069270723819345,0.0197183478770386
+Body mass index,Carpal tunnel syndrome,"UK Biobank, women",weighted median,75,0.69799464102385,0.152946848080954,5.02738075882588e-06
+Body mass index,Carpal tunnel syndrome,"UK Biobank, men",IVW,75,0.769925426182831,0.144274666525843,9.47445917678809e-08
+Body mass index,Carpal tunnel syndrome,"UK Biobank, men",MR-Egger,75,1.09065684693688,0.348378911694236,0.0017441238659097
+Body mass index,Carpal tunnel syndrome,"UK Biobank, men",MR-Egger intercept,75,-0.0098507813899258,0.0097395739402716,0.311816360766506
+Body mass index,Carpal tunnel syndrome,"UK Biobank, men",weighted median,75,0.842950151908975,0.243087629660713,0.0005249717000326
+Body mass index,Dupuytren's disease,"UK Biobank, women",IVW,75,-0.261176179642721,0.268524012059941,0.330734135245647
+Body mass index,Dupuytren's disease,"UK Biobank, women",MR-Egger,75,0.183033303672192,0.65041572283798,0.778396167022948
+Body mass index,Dupuytren's disease,"UK Biobank, women",MR-Egger intercept,75,-0.0136400911546871,0.0181793290420115,0.453069386500583
+Body mass index,Dupuytren's disease,"UK Biobank, women",weighted median,75,0.0621730162646127,0.419379881171439,0.882145569635485
+Body mass index,Dupuytren's disease,"UK Biobank, men",IVW,75,-0.552297583732217,0.137268081333394,5.73405450644752e-05
+Body mass index,Dupuytren's disease,"UK Biobank, men",MR-Egger,75,-0.839558993301253,0.331510722911552,0.0113244489211899
+Body mass index,Dupuytren's disease,"UK Biobank, men",MR-Egger intercept,75,0.0088228108423962,0.009267998445292,0.34111469407878
+Body mass index,Dupuytren's disease,"UK Biobank, men",weighted median,75,-0.494136429372506,0.211049895722683,0.019215424064572
+SHBG (men),Carpal tunnel syndrome,FinnGen,IVW,205,-0.238037442352613,0.0705880703257382,0.000745689275459
+SHBG (men),Carpal tunnel syndrome,FinnGen,MR-Egger,205,-0.086392600648846,0.124702840799357,0.488442760161157
+SHBG (men),Carpal tunnel syndrome,FinnGen,MR-Egger intercept,205,-0.0028979492588163,0.0019671849430431,0.140711860034584
+SHBG (men),Carpal tunnel syndrome,FinnGen,weighted median,205,-0.080009604962876,0.0836762708708912,0.338981131806207
+SHBG (men),De Quervain tenosynovitis,FinnGen,IVW,205,-0.203666210162672,0.175111566901215,0.244802956033212
+SHBG (men),De Quervain tenosynovitis,FinnGen,MR-Egger,205,-0.213885442656325,0.310308774980553,0.490655576499948
+SHBG (men),De Quervain tenosynovitis,FinnGen,MR-Egger intercept,205,0.0001957579645051,0.0049016740499154,0.968143384120366
+SHBG (men),De Quervain tenosynovitis,FinnGen,weighted median,205,-0.251031811969191,0.288523681531285,0.384269703636665
+SHBG (men),Dupuytren's disease,FinnGen,IVW,205,0.0763081695293153,0.119387168215714,0.52271521613664
+SHBG (men),Dupuytren's disease,FinnGen,MR-Egger,205,0.162035507897837,0.210493395621172,0.441425045049498
+SHBG (men),Dupuytren's disease,FinnGen,MR-Egger intercept,205,-0.0016496369185139,0.0033330245568884,0.620644646262399
+SHBG (men),Dupuytren's disease,FinnGen,weighted median,205,0.0065120472685242,0.166967394951907,0.96888886601619
+SHBG (men),Frozen shoulder,FinnGen,IVW,205,-0.13060845274577,0.09801347941862,0.182677543674406
+SHBG (men),Frozen shoulder,FinnGen,MR-Egger,205,-0.0068264190895718,0.173012035195724,0.968526573981623
+SHBG (men),Frozen shoulder,FinnGen,MR-Egger intercept,205,-0.0023770239194873,0.0027370557834301,0.385142470026056
+SHBG (men),Frozen shoulder,FinnGen,weighted median,205,-0.0664744929843381,0.157799160873718,0.673565150033715
+SHBG (men),Plantar fascial disorder,FinnGen,IVW,205,-0.323620780310808,0.130888093135141,0.0134171799580426
+SHBG (men),Plantar fascial disorder,FinnGen,MR-Egger,205,-0.251478525493817,0.231716633302102,0.277795563676887
+SHBG (men),Plantar fascial disorder,FinnGen,MR-Egger intercept,205,-0.0013829946369196,0.0036619245187567,0.705676648488497
+SHBG (men),Plantar fascial disorder,FinnGen,weighted median,205,-0.484713692060932,0.210237581567482,0.0211356738945474
+SHBG (men),Trigger finger,FinnGen,IVW,205,-0.132284111985795,0.112327644485771,0.238930978812315
+SHBG (men),Trigger finger,FinnGen,MR-Egger,205,0.117086921921521,0.197682449337289,0.553651046324098
+SHBG (men),Trigger finger,FinnGen,MR-Egger intercept,205,-0.0047841328022005,0.003125612810955,0.125862756586767
+SHBG (men),Trigger finger,FinnGen,weighted median,205,-0.132052311298046,0.165730712233047,0.425573925236161
+Total testosterone (men),Carpal tunnel syndrome,FinnGen,IVW,152,-0.0393087603698874,0.0376134380079493,0.295989577387125
+Total testosterone (men),Carpal tunnel syndrome,FinnGen,MR-Egger,152,-0.0284184063091289,0.0664714997782938,0.668995026027224
+Total testosterone (men),Carpal tunnel syndrome,FinnGen,MR-Egger intercept,152,-0.0004779290691588,0.0024015592176419,0.842256625953656
+Total testosterone (men),Carpal tunnel syndrome,FinnGen,weighted median,152,-0.0497724806459125,0.0405112546809027,0.219218545552366
+Total testosterone (men),De Quervain tenosynovitis,FinnGen,IVW,152,0.109490790622455,0.0917416572578044,0.232685888113073
+Total testosterone (men),De Quervain tenosynovitis,FinnGen,MR-Egger,152,-0.0963211413777936,0.160840039120299,0.549264275511885
+Total testosterone (men),De Quervain tenosynovitis,FinnGen,MR-Egger intercept,152,0.0090203344470298,0.0058030695835507,0.120087263310797
+Total testosterone (men),De Quervain tenosynovitis,FinnGen,weighted median,152,0.111485538273468,0.147680544017635,0.450302908886458
+Total testosterone (men),Dupuytren's disease,FinnGen,IVW,152,0.0102040124085059,0.0603741363788313,0.865786435568142
+Total testosterone (men),Dupuytren's disease,FinnGen,MR-Egger,152,0.0417190338155405,0.105876313027758,0.693554774978802
+Total testosterone (men),Dupuytren's disease,FinnGen,MR-Egger intercept,152,-0.0014019550608587,0.0038637406692426,0.716717565614894
+Total testosterone (men),Dupuytren's disease,FinnGen,weighted median,152,-0.0919121083787332,0.0789355143640887,0.244264023582394
+Total testosterone (men),Frozen shoulder,FinnGen,IVW,152,0.0012887426564717,0.0475684723122233,0.978386060315165
+Total testosterone (men),Frozen shoulder,FinnGen,MR-Egger,152,0.0064052270366645,0.0838342054379058,0.939098082099151
+Total testosterone (men),Frozen shoulder,FinnGen,MR-Egger intercept,152,-0.0002255015779069,0.0030376911761001,0.940823770367642
+Total testosterone (men),Frozen shoulder,FinnGen,weighted median,152,-0.0307786227568112,0.0717465268066268,0.667929688390421
+Total testosterone (men),Plantar fascial disorder,FinnGen,IVW,152,-0.194583816700799,0.0632766305181068,0.0021041135530314
+Total testosterone (men),Plantar fascial disorder,FinnGen,MR-Egger,152,-0.212040646473959,0.111531668933583,0.057279768627772
+Total testosterone (men),Plantar fascial disorder,FinnGen,MR-Egger intercept,152,0.0007684036536534,0.0040365776364821,0.849026897254822
+Total testosterone (men),Plantar fascial disorder,FinnGen,weighted median,152,-0.237752314543272,0.113079699085926,0.0355077606870305
+Total testosterone (men),Trigger finger,FinnGen,IVW,152,0.0108267209249392,0.0551534259702774,0.844373893985663
+Total testosterone (men),Trigger finger,FinnGen,MR-Egger,152,0.0859267451631668,0.097033278021285,0.375866032815527
+Total testosterone (men),Trigger finger,FinnGen,MR-Egger intercept,152,-0.0033028219023716,0.0035104044621549,0.346773285339037
+Total testosterone (men),Trigger finger,FinnGen,weighted median,152,0.0245298080596246,0.083495757340828,0.768922133858062

@@ -1,0 +1,100 @@
+Disorder,Gene,Z,P
+Trigger finger,GDF5,5.1741,1.1449e-07
+Trigger finger,WNT7B,1.4613,0.071971
+Carpal tunnel syndrome,COL11A1,7.3287,1.1618e-13
+Carpal tunnel syndrome,PAPPA2,3.4308,0.00030089
+Carpal tunnel syndrome,EPDR1,0.054304,0.47835
+Carpal tunnel syndrome,SFRP4,-0.26606,0.6049
+Carpal tunnel syndrome,LTBP3,5.0486,2.2256e-07
+Carpal tunnel syndrome,IGF1R,4.7231,1.1614e-06
+Carpal tunnel syndrome,ADAMTS17,6.734,8.2541e-12
+Carpal tunnel syndrome,FTO,7.3886,7.4197e-14
+Carpal tunnel syndrome,SHBG,3.2112,0.00066083
+Carpal tunnel syndrome,GDF5,-0.18336,0.57274
+Carpal tunnel syndrome,WNT7B,0.5474,0.29205
+De Quervain tenosynovitis,COL11A1,0.1318,0.44757
+De Quervain tenosynovitis,PAPPA2,1.174,0.12019
+De Quervain tenosynovitis,EPDR1,-2.3031,0.98936
+De Quervain tenosynovitis,SFRP4,-2.403,0.99187
+De Quervain tenosynovitis,LTBP3,0.89564,0.18522
+De Quervain tenosynovitis,IGF1R,-1.2401,0.89253
+De Quervain tenosynovitis,ADAMTS17,2.333,0.0098251
+De Quervain tenosynovitis,FTO,1.6476,0.04972
+De Quervain tenosynovitis,SHBG,0.99254,0.16047
+De Quervain tenosynovitis,GDF5,1.5416,0.06158
+De Quervain tenosynovitis,WNT7B,0.040975,0.48366
+Dupuytren's disease,COL11A1,0.64726,0.25873
+Dupuytren's disease,PAPPA2,0.17028,0.43239
+Dupuytren's disease,EPDR1,6.1094,5e-10
+Dupuytren's disease,SFRP4,6.1094,5e-10
+Dupuytren's disease,LTBP3,-1.2052,0.88594
+Dupuytren's disease,IGF1R,0.99463,0.15996
+Dupuytren's disease,ADAMTS17,0.48262,0.31468
+Dupuytren's disease,FTO,3.0133,0.0012922
+Dupuytren's disease,SHBG,1.7643,0.038839
+Dupuytren's disease,GDF5,3.3139,0.00046009
+Dupuytren's disease,WNT7B,6.1094,5e-10
+Enthesopathy,COL11A1,0.74977,0.2267
+Enthesopathy,PAPPA2,1.1706,0.12089
+Enthesopathy,EPDR1,2.5662,0.0051414
+Enthesopathy,SFRP4,2.2883,0.011061
+Enthesopathy,LTBP3,0.72824,0.23323
+Enthesopathy,IGF1R,0.30469,0.3803
+Enthesopathy,ADAMTS17,3.4367,0.00029446
+Enthesopathy,FTO,0.11338,0.45487
+Enthesopathy,SHBG,-0.88461,0.81182
+Enthesopathy,GDF5,-0.26689,0.60522
+Enthesopathy,WNT7B,0.99587,0.15966
+Frozen shoulder,COL11A1,0.02661,0.48939
+Frozen shoulder,PAPPA2,1.3711,0.085171
+Frozen shoulder,EPDR1,4.3276,7.5355e-06
+Frozen shoulder,SFRP4,4.6735,1.4809e-06
+Frozen shoulder,LTBP3,-0.1768,0.57017
+Frozen shoulder,IGF1R,0.72926,0.23292
+Frozen shoulder,ADAMTS17,3.8739,5.3558e-05
+Frozen shoulder,FTO,1.1582,0.12338
+Frozen shoulder,SHBG,2.3611,0.00911
+Frozen shoulder,GDF5,1.5808,0.056963
+Frozen shoulder,WNT7B,6.1094,5e-10
+Plantar fascial disorder,COL11A1,-1.0278,0.84799
+Plantar fascial disorder,PAPPA2,0.84276,0.19968
+Plantar fascial disorder,EPDR1,3.6678,0.00012234
+Plantar fascial disorder,SFRP4,4.0334,2.7484e-05
+Plantar fascial disorder,LTBP3,1.5985,0.054962
+Plantar fascial disorder,IGF1R,1.9653,0.024688
+Plantar fascial disorder,ADAMTS17,0.79589,0.21305
+Plantar fascial disorder,FTO,1.9337,0.026574
+Plantar fascial disorder,SHBG,0.74385,0.22848
+Plantar fascial disorder,GDF5,0.91068,0.18123
+Plantar fascial disorder,WNT7B,5.5742,1.2436e-08
+Trigger finger,COL11A1,4.1859,1.4203e-05
+Trigger finger,PAPPA2,3.3828,0.00035869
+Trigger finger,EPDR1,0.39661,0.34583
+Trigger finger,SFRP4,0.58764,0.27839
+Trigger finger,LTBP3,6.8399,3.9621e-12
+Trigger finger,IGF1R,1.532,0.062757
+Trigger finger,ADAMTS17,3.1799,0.00073664
+Trigger finger,FTO,7.8485,2.1059e-15
+Trigger finger,SHBG,0.99383,0.16015
+Fibro-capsular axis,COL11A1,-0.082572,0.5329
+Fibro-capsular axis,PAPPA2,0.72688,0.23365
+Fibro-capsular axis,EPDR1,6.1094,5e-10
+Fibro-capsular axis,SFRP4,6.1094,5e-10
+Fibro-capsular axis,LTBP3,0.58598,0.27895
+Fibro-capsular axis,IGF1R,2.1425,0.016076
+Fibro-capsular axis,ADAMTS17,1.9415,0.026096
+Fibro-capsular axis,FTO,1.5413,0.061619
+Fibro-capsular axis,SHBG,2.3995,0.0082077
+Fibro-capsular axis,GDF5,1.6446,0.050027
+Fibro-capsular axis,WNT7B,6.1094,5e-10
+Tenosynovial axis,COL11A1,6.1094,5e-10
+Tenosynovial axis,PAPPA2,3.2035,0.00067894
+Tenosynovial axis,EPDR1,0.63146,0.26387
+Tenosynovial axis,SFRP4,0.506,0.30643
+Tenosynovial axis,LTBP3,6.9327,2.0645e-12
+Tenosynovial axis,IGF1R,4.271,9.7284e-06
+Tenosynovial axis,ADAMTS17,6.798,5.3051e-12
+Tenosynovial axis,FTO,6.1554,3.7436e-10
+Tenosynovial axis,SHBG,2.8064,0.0025052
+Tenosynovial axis,GDF5,2.0201,0.021687
+Tenosynovial axis,WNT7B,1.4772,0.069812

@@ -1,0 +1,13 @@
+Atlas,Cell state,"Beta, tenosynovial axis","Beta, fibro-capsular axis",Difference in beta (tenosynovial minus fibro-capsular)
+Achilles tendon atlas (fibroblasts and chondrocytes),COMP+ MMP3+ tenocytes,0.13983,0.082635,0.05719500000000001
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi VCANhi fibroblasts,0.035736,0.0010478,0.0346882
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi COL15A1hi fibroblasts,-0.0055735,-0.0014711,-0.004102400000000001
+Achilles tendon atlas (fibroblasts and chondrocytes),NEGR1hi ITGA6hi fibroblasts,0.01743,0.038107,-0.020677
+Achilles tendon atlas (fibroblasts and chondrocytes),COMP+ THBS4+ tenocytes,0.091218,0.06523,0.025988
+Achilles tendon atlas (fibroblasts and chondrocytes),Enthesis fibrocartilage cells,0.12162,0.062326,0.05929400000000001
+Achilles tendon atlas (fibroblasts and chondrocytes),PRG4hi fibroblasts,0.023018,-0.017221,0.040239
+Palmar fascia atlas (mesenchyme),APOD+ fascia fibroblasts,0.074979,0.018737,0.056242
+Palmar fascia atlas (mesenchyme),COMP+ THBS4+ fibroblasts,0.16262,0.064172,0.09844799999999998
+Palmar fascia atlas (mesenchyme),Mural cells,0.052827,0.06891,-0.016083
+Palmar fascia atlas (mesenchyme),PI16+ universal fibroblasts,0.053178,-0.0028869,0.0560649
+Palmar fascia atlas (mesenchyme),POSTN+ lesional fibroblasts,0.05362,0.10169,-0.04807

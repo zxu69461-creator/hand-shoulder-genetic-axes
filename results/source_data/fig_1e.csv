@@ -1,0 +1,13 @@
+Molecule,Pharmacological class,Trials,"Participants, drug","Participants, placebo"
+Liraglutide,Selective GLP-1 receptor agonist,61,15678,10088
+Semaglutide,Selective GLP-1 receptor agonist,42,18250,13218
+Exenatide,Selective GLP-1 receptor agonist,37,10112,9166
+Tirzepatide,GIP and GLP-1 receptor co-agonist,20,6352,2842
+Dulaglutide,Selective GLP-1 receptor agonist,16,6822,5824
+Lixisenatide,Selective GLP-1 receptor agonist,11,7147,5297
+Albiglutide,Selective GLP-1 receptor agonist,10,6046,5291
+Orforglipron,Selective GLP-1 receptor agonist,5,4158,1914
+Efpeglenatide,Selective GLP-1 receptor agonist,4,3533,1628
+Cotadutide,GLP-1 and glucagon receptor co-agonist,2,232,70
+Mazdutide,GLP-1 and glucagon receptor co-agonist,1,130,47
+Survodutide,GLP-1 and glucagon receptor co-agonist,1,214,79

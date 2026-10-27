@@ -1,0 +1,2 @@
+Gene,Disorder,Exposure,Variants,PP0,PP1,PP2,PP3,PP4 (shared causal variant),Most likely shared variant,Position (GRCh38),Posterior probability of the variant
+FTO,Carpal tunnel syndrome,Body mass index,976,0,0,0,0.0332,0.9668,rs1558902,53769662,0.9958

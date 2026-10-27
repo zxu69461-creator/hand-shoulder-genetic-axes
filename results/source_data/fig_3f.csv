@@ -1,0 +1,6 @@
+Model,Exposure,Outcome,Estimate (log OR per SD),SE,P
+BMI + SHBG (women),SHBG (women),Carpal tunnel syndrome,-0.477041194536609,0.132593126029365,0.0003209421396017
+BMI + type 2 diabetes liability,Type 2 diabetes liability,Carpal tunnel syndrome,0.102455045999049,0.0210039076651088,1.07219062534145e-06
+BMI + type 2 diabetes liability,Type 2 diabetes liability,Trigger finger,0.101219158123492,0.0288139906267557,0.0004433316679675
+BMI + type 2 diabetes liability,Type 2 diabetes liability,Dupuytren's disease,0.0809424604368268,0.0323190562204905,0.0122631210964425
+BMI + type 2 diabetes liability,Type 2 diabetes liability,Frozen shoulder,0.087793744384714,0.0261807192793529,0.0007983274119936

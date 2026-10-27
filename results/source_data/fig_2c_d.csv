@@ -1,0 +1,122 @@
+GWAS 1,GWAS 2,Genetic correlation,SE
+Carpal tunnel syndrome (FinnGen),Carpal tunnel syndrome (FinnGen),1.0,0.0500923853986243
+Trigger finger (FinnGen),Carpal tunnel syndrome (FinnGen),0.69296776111389,0.0490396599103776
+De Quervain tenosynovitis (FinnGen),Carpal tunnel syndrome (FinnGen),0.568224768637319,0.0605924574621448
+Dupuytren's disease (FinnGen),Carpal tunnel syndrome (FinnGen),0.0636537063499877,0.0436999758604593
+Plantar fascial disorder (FinnGen),Carpal tunnel syndrome (FinnGen),0.425565777097494,0.0580286809508171
+Frozen shoulder (FinnGen),Carpal tunnel syndrome (FinnGen),0.287498819223553,0.0558597565847792
+Carpal tunnel syndrome (UK Biobank),Carpal tunnel syndrome (FinnGen),0.860004016704042,0.0480501228737475
+Trigger finger (UK Biobank),Carpal tunnel syndrome (FinnGen),0.425627533734919,0.0547131301902512
+Dupuytren's disease (UK Biobank),Carpal tunnel syndrome (FinnGen),-0.0612398554403768,0.0417998476410755
+Frozen shoulder (UK Biobank),Carpal tunnel syndrome (FinnGen),0.167051986006408,0.0506975892492872
+Enthesopathy (UK Biobank),Carpal tunnel syndrome (FinnGen),0.474644946119844,0.0673371258928592
+Carpal tunnel syndrome (FinnGen),Trigger finger (FinnGen),0.69296776111389,0.0490396599103776
+Trigger finger (FinnGen),Trigger finger (FinnGen),1.0,0.0959357270877103
+De Quervain tenosynovitis (FinnGen),Trigger finger (FinnGen),0.615815356995766,0.101544628507716
+Dupuytren's disease (FinnGen),Trigger finger (FinnGen),0.177096439926261,0.0734026397029566
+Plantar fascial disorder (FinnGen),Trigger finger (FinnGen),0.484620549380121,0.0827402271143141
+Frozen shoulder (FinnGen),Trigger finger (FinnGen),0.347667575613938,0.0889283090122496
+Carpal tunnel syndrome (UK Biobank),Trigger finger (FinnGen),0.58343286935142,0.0589620156467574
+Trigger finger (UK Biobank),Trigger finger (FinnGen),0.840135999946585,0.0789031661804892
+Dupuytren's disease (UK Biobank),Trigger finger (FinnGen),-0.122739275516009,0.0679555951779493
+Frozen shoulder (UK Biobank),Trigger finger (FinnGen),0.226369200950579,0.0845704017827736
+Enthesopathy (UK Biobank),Trigger finger (FinnGen),0.577020739894655,0.101441547071938
+Carpal tunnel syndrome (FinnGen),De Quervain tenosynovitis (FinnGen),0.568224768637319,0.0605924574621448
+Trigger finger (FinnGen),De Quervain tenosynovitis (FinnGen),0.615815356995766,0.101544628507716
+De Quervain tenosynovitis (FinnGen),De Quervain tenosynovitis (FinnGen),1.0,0.155398500962664
+Dupuytren's disease (FinnGen),De Quervain tenosynovitis (FinnGen),0.105598412747986,0.0991396939010611
+Plantar fascial disorder (FinnGen),De Quervain tenosynovitis (FinnGen),0.274636030088202,0.113432134753881
+Frozen shoulder (FinnGen),De Quervain tenosynovitis (FinnGen),0.513435246137822,0.109124784712586
+Carpal tunnel syndrome (UK Biobank),De Quervain tenosynovitis (FinnGen),0.407535318286064,0.0704231026579439
+Trigger finger (UK Biobank),De Quervain tenosynovitis (FinnGen),0.437643304504055,0.116411768058702
+Dupuytren's disease (UK Biobank),De Quervain tenosynovitis (FinnGen),-0.0113531427805877,0.0784549080361414
+Frozen shoulder (UK Biobank),De Quervain tenosynovitis (FinnGen),0.328331459390796,0.0958474550425375
+Enthesopathy (UK Biobank),De Quervain tenosynovitis (FinnGen),0.588961092832308,0.122396366305637
+Carpal tunnel syndrome (FinnGen),Dupuytren's disease (FinnGen),0.0636537063499877,0.0436999758604593
+Trigger finger (FinnGen),Dupuytren's disease (FinnGen),0.177096439926261,0.0734026397029566
+De Quervain tenosynovitis (FinnGen),Dupuytren's disease (FinnGen),0.105598412747986,0.0991396939010611
+Dupuytren's disease (FinnGen),Dupuytren's disease (FinnGen),1.0,0.14903751262381
+Plantar fascial disorder (FinnGen),Dupuytren's disease (FinnGen),0.294568424769543,0.0857840175096805
+Frozen shoulder (FinnGen),Dupuytren's disease (FinnGen),0.405185446914592,0.0872493990562524
+Carpal tunnel syndrome (UK Biobank),Dupuytren's disease (FinnGen),-0.027519519763952,0.0559749769040301
+Trigger finger (UK Biobank),Dupuytren's disease (FinnGen),0.127396930403172,0.0750472745441784
+Dupuytren's disease (UK Biobank),Dupuytren's disease (FinnGen),0.866832510555249,0.0992717071394042
+Frozen shoulder (UK Biobank),Dupuytren's disease (FinnGen),0.351391473267437,0.0905465669524086
+Enthesopathy (UK Biobank),Dupuytren's disease (FinnGen),0.112787849805042,0.0986601042427426
+Carpal tunnel syndrome (FinnGen),Plantar fascial disorder (FinnGen),0.425565777097494,0.0580286809508171
+Trigger finger (FinnGen),Plantar fascial disorder (FinnGen),0.484620549380121,0.0827402271143141
+De Quervain tenosynovitis (FinnGen),Plantar fascial disorder (FinnGen),0.274636030088202,0.113432134753881
+Dupuytren's disease (FinnGen),Plantar fascial disorder (FinnGen),0.294568424769543,0.0857840175096805
+Plantar fascial disorder (FinnGen),Plantar fascial disorder (FinnGen),1.0,0.157129007720797
+Frozen shoulder (FinnGen),Plantar fascial disorder (FinnGen),0.543346740434443,0.0969297482907599
+Carpal tunnel syndrome (UK Biobank),Plantar fascial disorder (FinnGen),0.261025379558519,0.0705374598209572
+Trigger finger (UK Biobank),Plantar fascial disorder (FinnGen),0.29958634198409,0.104911353370049
+Dupuytren's disease (UK Biobank),Plantar fascial disorder (FinnGen),0.0885378476606258,0.0755346318340968
+Frozen shoulder (UK Biobank),Plantar fascial disorder (FinnGen),0.467516377782482,0.0971900835797353
+Enthesopathy (UK Biobank),Plantar fascial disorder (FinnGen),0.540887151534147,0.122754996740211
+Carpal tunnel syndrome (FinnGen),Frozen shoulder (FinnGen),0.287498819223553,0.0558597565847792
+Trigger finger (FinnGen),Frozen shoulder (FinnGen),0.347667575613938,0.0889283090122496
+De Quervain tenosynovitis (FinnGen),Frozen shoulder (FinnGen),0.513435246137822,0.109124784712586
+Dupuytren's disease (FinnGen),Frozen shoulder (FinnGen),0.405185446914592,0.0872493990562524
+Plantar fascial disorder (FinnGen),Frozen shoulder (FinnGen),0.543346740434443,0.0969297482907599
+Frozen shoulder (FinnGen),Frozen shoulder (FinnGen),1.0,0.133072641138241
+Carpal tunnel syndrome (UK Biobank),Frozen shoulder (FinnGen),0.131950590424939,0.0633530238087342
+Trigger finger (UK Biobank),Frozen shoulder (FinnGen),0.159873810452688,0.0957013484050248
+Dupuytren's disease (UK Biobank),Frozen shoulder (FinnGen),0.23817806987601,0.0774433207090475
+Frozen shoulder (UK Biobank),Frozen shoulder (FinnGen),0.921591311610031,0.0944635329657021
+Enthesopathy (UK Biobank),Frozen shoulder (FinnGen),0.543181931321888,0.109444923771404
+Carpal tunnel syndrome (FinnGen),Carpal tunnel syndrome (UK Biobank),0.860004016704042,0.0480501228737475
+Trigger finger (FinnGen),Carpal tunnel syndrome (UK Biobank),0.58343286935142,0.0589620156467574
+De Quervain tenosynovitis (FinnGen),Carpal tunnel syndrome (UK Biobank),0.407535318286064,0.0704231026579439
+Dupuytren's disease (FinnGen),Carpal tunnel syndrome (UK Biobank),-0.027519519763952,0.0559749769040301
+Plantar fascial disorder (FinnGen),Carpal tunnel syndrome (UK Biobank),0.261025379558519,0.0705374598209572
+Frozen shoulder (FinnGen),Carpal tunnel syndrome (UK Biobank),0.131950590424939,0.0633530238087342
+Carpal tunnel syndrome (UK Biobank),Carpal tunnel syndrome (UK Biobank),1.0,0.0725568335187932
+Trigger finger (UK Biobank),Carpal tunnel syndrome (UK Biobank),0.724863614867408,0.0710792237440972
+Dupuytren's disease (UK Biobank),Carpal tunnel syndrome (UK Biobank),-0.0388958551497568,0.0582606114881812
+Frozen shoulder (UK Biobank),Carpal tunnel syndrome (UK Biobank),0.179892531805677,0.0662461979978075
+Enthesopathy (UK Biobank),Carpal tunnel syndrome (UK Biobank),0.588082697625497,0.0946173397076876
+Carpal tunnel syndrome (FinnGen),Trigger finger (UK Biobank),0.425627533734919,0.0547131301902512
+Trigger finger (FinnGen),Trigger finger (UK Biobank),0.840135999946585,0.0789031661804892
+De Quervain tenosynovitis (FinnGen),Trigger finger (UK Biobank),0.437643304504055,0.116411768058702
+Dupuytren's disease (FinnGen),Trigger finger (UK Biobank),0.127396930403172,0.0750472745441784
+Plantar fascial disorder (FinnGen),Trigger finger (UK Biobank),0.29958634198409,0.104911353370049
+Frozen shoulder (FinnGen),Trigger finger (UK Biobank),0.159873810452688,0.0957013484050248
+Carpal tunnel syndrome (UK Biobank),Trigger finger (UK Biobank),0.724863614867408,0.0710792237440972
+Trigger finger (UK Biobank),Trigger finger (UK Biobank),1.0,0.155494170706892
+Dupuytren's disease (UK Biobank),Trigger finger (UK Biobank),0.0149412256268845,0.0772133668582805
+Frozen shoulder (UK Biobank),Trigger finger (UK Biobank),0.229400923004025,0.0983647631427611
+Enthesopathy (UK Biobank),Trigger finger (UK Biobank),0.497796120583605,0.113160287387116
+Carpal tunnel syndrome (FinnGen),Dupuytren's disease (UK Biobank),-0.0612398554403768,0.0417998476410755
+Trigger finger (FinnGen),Dupuytren's disease (UK Biobank),-0.122739275516009,0.0679555951779493
+De Quervain tenosynovitis (FinnGen),Dupuytren's disease (UK Biobank),-0.0113531427805877,0.0784549080361414
+Dupuytren's disease (FinnGen),Dupuytren's disease (UK Biobank),0.866832510555249,0.0992717071394042
+Plantar fascial disorder (FinnGen),Dupuytren's disease (UK Biobank),0.0885378476606258,0.0755346318340968
+Frozen shoulder (FinnGen),Dupuytren's disease (UK Biobank),0.23817806987601,0.0774433207090475
+Carpal tunnel syndrome (UK Biobank),Dupuytren's disease (UK Biobank),-0.0388958551497568,0.0582606114881812
+Trigger finger (UK Biobank),Dupuytren's disease (UK Biobank),0.0149412256268845,0.0772133668582805
+Dupuytren's disease (UK Biobank),Dupuytren's disease (UK Biobank),1.0,0.118266009828372
+Frozen shoulder (UK Biobank),Dupuytren's disease (UK Biobank),0.331492195230738,0.0864006828450657
+Enthesopathy (UK Biobank),Dupuytren's disease (UK Biobank),0.101814220150023,0.0925607227346489
+Carpal tunnel syndrome (FinnGen),Frozen shoulder (UK Biobank),0.167051986006408,0.0506975892492872
+Trigger finger (FinnGen),Frozen shoulder (UK Biobank),0.226369200950579,0.0845704017827736
+De Quervain tenosynovitis (FinnGen),Frozen shoulder (UK Biobank),0.328331459390796,0.0958474550425375
+Dupuytren's disease (FinnGen),Frozen shoulder (UK Biobank),0.351391473267437,0.0905465669524086
+Plantar fascial disorder (FinnGen),Frozen shoulder (UK Biobank),0.467516377782482,0.0971900835797353
+Frozen shoulder (FinnGen),Frozen shoulder (UK Biobank),0.921591311610031,0.0944635329657021
+Carpal tunnel syndrome (UK Biobank),Frozen shoulder (UK Biobank),0.179892531805677,0.0662461979978075
+Trigger finger (UK Biobank),Frozen shoulder (UK Biobank),0.229400923004025,0.0983647631427611
+Dupuytren's disease (UK Biobank),Frozen shoulder (UK Biobank),0.331492195230738,0.0864006828450657
+Frozen shoulder (UK Biobank),Frozen shoulder (UK Biobank),1.0,0.127577680143623
+Enthesopathy (UK Biobank),Frozen shoulder (UK Biobank),0.418319703124279,0.123281724742492
+Carpal tunnel syndrome (FinnGen),Enthesopathy (UK Biobank),0.474644946119844,0.0673371258928592
+Trigger finger (FinnGen),Enthesopathy (UK Biobank),0.577020739894655,0.101441547071938
+De Quervain tenosynovitis (FinnGen),Enthesopathy (UK Biobank),0.588961092832308,0.122396366305637
+Dupuytren's disease (FinnGen),Enthesopathy (UK Biobank),0.112787849805042,0.0986601042427426
+Plantar fascial disorder (FinnGen),Enthesopathy (UK Biobank),0.540887151534147,0.122754996740211
+Frozen shoulder (FinnGen),Enthesopathy (UK Biobank),0.543181931321888,0.109444923771404
+Carpal tunnel syndrome (UK Biobank),Enthesopathy (UK Biobank),0.588082697625497,0.0946173397076876
+Trigger finger (UK Biobank),Enthesopathy (UK Biobank),0.497796120583605,0.113160287387116
+Dupuytren's disease (UK Biobank),Enthesopathy (UK Biobank),0.101814220150023,0.0925607227346489
+Frozen shoulder (UK Biobank),Enthesopathy (UK Biobank),0.418319703124279,0.123281724742492
+Enthesopathy (UK Biobank),Enthesopathy (UK Biobank),1.0,0.219992978394966

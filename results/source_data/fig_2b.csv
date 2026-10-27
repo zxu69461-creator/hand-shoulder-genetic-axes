@@ -1,0 +1,15 @@
+Factor,Disorder,Loading
+Tenosynovial factor,Carpal tunnel syndrome,0.983244177076979
+Tenosynovial factor,Trigger finger,0.846558276427821
+Tenosynovial factor,De Quervain tenosynovitis,0.592773733252233
+Tenosynovial factor,Enthesopathy,0.456224708061537
+Tenosynovial factor,Plantar fascial disorder,0.160740498167538
+Tenosynovial factor,Frozen shoulder,-0.131432061458472
+Tenosynovial factor,Dupuytren's disease,-0.202073778909071
+Fibro-capsular factor,Carpal tunnel syndrome,-0.259498147566088
+Fibro-capsular factor,Trigger finger,-0.0389411747868715
+Fibro-capsular factor,De Quervain tenosynovitis,0.183196267909011
+Fibro-capsular factor,Enthesopathy,0.369909490713995
+Fibro-capsular factor,Plantar fascial disorder,0.470835370190753
+Fibro-capsular factor,Frozen shoulder,1.06224437134639
+Fibro-capsular factor,Dupuytren's disease,0.470458563569468
