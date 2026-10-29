@@ -3,8 +3,8 @@
 Analysis code and source data for:
 
 > Xu Z, Cheng J, Chen X, Luo J, Zhu X, Guo X. Genetic axes of hand and shoulder soft-tissue disease and their divergent
-> responses to adiposity and incretin therapy: a cross-biobank genomic and randomised trial study. *medRxiv* 2026
-> (DOI to be added).
+> responses to adiposity and incretin therapy: a cross-biobank genomic and randomised trial study. *medRxiv* 2026,
+> doi:[10.64898/2026.10.27.26366575](https://doi.org/10.64898/2026.10.27.26366575) (preprint: not peer reviewed).
 
 Carpal tunnel syndrome, trigger finger, de Quervain tenosynovitis, Dupuytren's disease, frozen shoulder and plantar
 fascial disorder cluster in people with obesity and diabetes. Using genome-wide data from FinnGen release 13 and UK
